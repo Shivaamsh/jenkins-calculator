@@ -48,7 +48,7 @@ pipeline {
     }
   }
   tools {
-    maven 'Maven8593'
+    maven 'maven8593'
   }
   post {
     always {
